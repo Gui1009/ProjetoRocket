@@ -42,8 +42,8 @@ body * {
 }
 
 #container {
-  width: 100%;
   max-width: 588px;
+  width: 100%;
   /*
   margin-top: 56px;
   margin-right: auto;
